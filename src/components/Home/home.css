@@ -1,0 +1,8 @@
+.swiper-button-next, .swiper-button-prev {
+    color: azure;
+}
+
+.swiper-pagination-bullet, .swiper-pagination-bullet-active {
+    color: #ffffff;
+    background-color: #ffffff;
+}

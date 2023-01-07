@@ -1,0 +1,7 @@
+.submenu {
+  opacity: 0;
+}
+
+.parent-submenu:hover .submenu {
+  opacity: 100;
+}
